@@ -1,4 +1,4 @@
-# Hi, I am Vivian Emeli 👋
+# Hi, I am Vivian 👋
 ### I am a Data Analyst
 ### I am an R programmer
 ### I am great at the use of SQL, Excel and R to solve data related problem
