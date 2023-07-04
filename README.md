@@ -1,7 +1,5 @@
 # Hi, I am Vivian 👋
-### I am a Data Analyst
-### I am an R programmer
-### I am great at the use of SQL, Excel and R to solve data related problem
+### I use SQL, Excel and R to solve data related problem
 
 <!--
 **vivianemeli/vivianemeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
