@@ -1,14 +1,14 @@
  **Hi there, My name is Vivian 👋**
 
 
-## I am a student and Data Analyst
+## I am a Data and Statistical Analyst
 
-- 🔭 I’m currently an undergraduate studying statistics
+- 🔭 I hold a Bachelor's degree in Statistics from the University of Nigeria, Nsukka
+-  💬 Ask me about SQL, powerBI, MS Excel, SPSS and R
 - 🌱 I’m currently learning R programming
 - 👯 I’m looking to collaborate with other Data Analysts to solve real world problems using data.
-- 💬 Ask me about Excel, SQL and R
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love love watching Youtube vlogs, looking for wards to starting my channel soon.
+- ⚡ Fun fact: I love love watching Youtube vlogs, looking forward to starting my channel soon.
 
 
 <!--
